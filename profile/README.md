@@ -84,19 +84,6 @@
     </section>
     <section>
     <section>
-        <h2>Project Milestones</h2>
-        <ul>
-            <li>Requirements Gathering and Planning</li>
-            <li>Design and Development of User Interface</li>
-            <li>Backend Development</li>
-            <li>AI Integration</li>
-            <li>Testing and Quality Assurance</li>
-            <li>User Testing</li>
-            <li>Deployment and Launch</li>
-            <li>Documentation Process</li>
-            <li>Final Report</li>
-        </ul>
-    </section>
     <footer>
         <p>&copy; 2025 ExamLabs LK</p>
     </footer>
