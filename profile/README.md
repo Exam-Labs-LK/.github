@@ -61,6 +61,7 @@
         <h2>AI Integration</h2>
         <p>The platform uses advanced AI technologies to provide personalized feedback for structured essays. The AI integration includes the use of:</p>
          <img src="https://github.com/user-attachments/assets/4285f984-1d3b-4de0-a15d-665a19cca696" alt="ExamLabs LK Banner" style="width: 100%; max-height: 300px; object-fit: cover;">
+        <br/>
         <ul>
             <li>Retrieval-Augmented Generation (RAG) Architecture</li>
             <li>LangChain for NLP</li>
