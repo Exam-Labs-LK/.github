@@ -41,7 +41,7 @@
         <ul>
             <li>Access to Past Papers and Marking Schemes: Free access to downloadable resources without requiring an account.</li>
             <li>Online MCQ and Essay Practice: Interactive platform for practicing and submitting responses.</li>
-            <li>AI-Powered Feedback System: Integration of NLP models (like GPT-3) for automated evaluation of essay responses.</li>
+            <li>AI-Powered Feedback System: Integration of NLP model for automated evaluation of essay responses.</li>
             <li>User Interface and Experience: Responsive design for intuitive navigation and engaging user experience.</li>
             <li>User Registration and Authentication: Google OAuth for seamless login and registration.</li>
             <li>Admin Dashboard: Tools for content uploading, MCQ creation, and user management.</li>
@@ -53,7 +53,7 @@
             <li><strong>Frontend:</strong> React.js, HTML5, CSS3</li>
             <li><strong>Backend:</strong> Node.js, Express.js</li>
             <li><strong>Database:</strong> MongoDB</li>
-            <li><strong>AI & NLP:</strong> GPT-3 (OpenAI)</li>
+            <li><strong>AI & NLP:</strong>Custom RAG (Retrieval-Augmented Generation) system </li>
             <li><strong>Authentication:</strong> Google OAuth</li>
         </ul>
     </section>
