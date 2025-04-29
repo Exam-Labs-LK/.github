@@ -64,7 +64,7 @@
         <br/>
         <ul>
             <li>Retrieval-Augmented Generation (RAG) Architecture</li>
-            <li>LangChain for NLP</li>
+            <li>LangChain </li>
             <li>Large Language Model for essay evaluation</li>
             <li>Vector Database for data retrieval and management</li>
         </ul>
